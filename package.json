@@ -1,6 +1,6 @@
 {
   "name": "xml-sanitize-string",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "This module replaces characters that are not valid in XML in a string with XML/HTML character entities (and vice versa).",
   "main": "lib/index.js",
   "scripts": {
