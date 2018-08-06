@@ -1,6 +1,6 @@
 {
   "name": "xml-sanitize-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module replaces characters that are not valid in XML in a string with XML/HTML character entities (and vice versa).",
   "main": "lib/index.js",
   "scripts": {
@@ -19,6 +19,10 @@
   ],
   "author": "Nick Drewe",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:teamwethrift/xml-sanitize-string.git"
+  },
   "bugs": {
     "url": "https://github.com/teamwethrift/xml-sanitize-string/issues"
   },
