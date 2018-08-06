@@ -18,5 +18,9 @@
     "sanitizer"
   ],
   "author": "Nick Drewe",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamwethrift/xml-sanitize-string/issues"
+  },
+  "homepage": "https://www.searchmy.bio"
 }
