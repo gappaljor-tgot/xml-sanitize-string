@@ -1,5 +1,5 @@
 # xml-sanitize-string
-This module replaces characters that are not [valid in XML](https://www.npmjs.com/package/sanitize-xml-string) in a string with XML/HTML character entities (and vice versa).
+This module replaces characters that are not [valid in XML](https://www.w3.org/TR/xml11/#charsets) in a string with XML/HTML character entities (and vice versa).
 
 Emoji, and many other characters are not valid in XML, and may cause problems if they sneak into your XML. This small module has two methods to sanitize (escape invalid characters) a string, and to unescape a string.
 
