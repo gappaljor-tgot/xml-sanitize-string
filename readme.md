@@ -22,4 +22,4 @@ xmlSanitizeString.unescape('Some &#1f449; invalid &#1f4bb; characters &#1f392;')
 ```
 
 ## About
-xml-sanitize-string was built by [Nick Drewe](https://www.twitter.com/nickdrewe) to deal with user searches on [searchmy.bio](https://www.wethrift.com) that may contain emoji, or other characters that are invalid in XML.
+xml-sanitize-string was built by [Nick Drewe](https://www.twitter.com/nickdrewe) to deal with user searches on [searchmy.bio](https://www.searchmy.bio) that may contain emoji, or other characters that are invalid in XML.
